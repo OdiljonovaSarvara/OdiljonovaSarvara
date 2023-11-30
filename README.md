@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OdiljonovaSarvara
+- 👋 Hi, I’m OdiljonovaSarvara
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C++ program
 - 💞️ I’m looking to collaborate on ...
